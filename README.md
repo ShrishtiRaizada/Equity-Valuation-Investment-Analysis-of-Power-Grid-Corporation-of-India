@@ -11,5 +11,3 @@
 <img width="602" height="272" alt="image" src="https://github.com/user-attachments/assets/2f6643ea-99b2-476f-b511-8fad891c75a7" />
 
 <img width="911" height="257" alt="image" src="https://github.com/user-attachments/assets/933f0235-ffe2-429b-ad8a-08273ca48efb" />
-
-<img width="911" height="257" alt="image" src="https://github.com/user-attachments/assets/b876fc2d-de8d-4249-a314-729e0ad8ce42" />
